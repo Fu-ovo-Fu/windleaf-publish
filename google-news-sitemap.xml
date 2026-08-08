@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd">
   <url>
+    <loc>https://www.the-desolate.top/2026/08/%E4%BF%AE%E5%A4%8Dflatpak%E9%83%A8%E5%88%86%E8%BD%AF%E4%BB%B6%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8fcitx5.html</loc>
+    <news:news>
+      <news:publication>
+        <news:language>zh-CN</news:language>
+        <news:name>Unknown Author</news:name>
+      </news:publication>
+      <news:title>修复flatpak部分软件无法使用fcitx5</news:title>
+      <news:publication_date>2026-08-08T17:52:35+08:00</news:publication_date>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.the-desolate.top/2026/08/%E8%A7%A3%E5%86%B3kde%E4%BD%BF%E7%94%A8element%E6%97%A0%E6%B3%95%E5%8A%A0%E5%AF%86.html</loc>
     <news:news>
       <news:publication>
