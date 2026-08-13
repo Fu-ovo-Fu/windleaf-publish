@@ -45,17 +45,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.the-desolate.top/2026/06/opensuse-%E5%AE%89%E8%A3%85%E6%97%B6%E4%B8%AD%E6%96%87%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98.html</loc>
-    <news:news>
-      <news:publication>
-        <news:language>zh-CN</news:language>
-        <news:name>Unknown Author</news:name>
-      </news:publication>
-      <news:title>OpenSUSE 安装时中文无法正常显示问题</news:title>
-      <news:publication_date>2026-06-24T17:04:26+08:00</news:publication_date>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.the-desolate.top/2026/06/%E4%BD%BF%E7%94%A8virtualbox%E9%83%A8%E7%BD%B2mcsmanager.html</loc>
     <news:news>
       <news:publication>
@@ -64,6 +53,17 @@
       </news:publication>
       <news:title>使用virtualbox部署mcsmanager</news:title>
       <news:publication_date>2026-06-24T17:01:12+08:00</news:publication_date>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.the-desolate.top/2026/06/opensuse-%E5%AE%89%E8%A3%85%E6%97%B6%E4%B8%AD%E6%96%87%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98.html</loc>
+    <news:news>
+      <news:publication>
+        <news:language>zh-CN</news:language>
+        <news:name>Unknown Author</news:name>
+      </news:publication>
+      <news:title>OpenSUSE 安装时中文无法正常显示问题</news:title>
+      <news:publication_date>2026-06-24T17:04:26+08:00</news:publication_date>
     </news:news>
   </url>
 </urlset>
